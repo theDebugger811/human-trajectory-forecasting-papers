@@ -1,7 +1,8 @@
 # trajectory-prediction-papers
 Collection of Papers in Trajectory Prediction categorised according to the high-level structure
 
-![version](https://img.shields.io/badge/version-0.0.1-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2020.04.15-lightgrey.svg) ![topic](https://img.shields.io/badge/topic-trajectory--prediction-brightgreen.svg?logo=github) [![HitCount](http://hits.dwyl.com/theDebugger811/theDebugger811githubio.svg)](http://hits.dwyl.com/theDebugger811/theDebugger811githubio)
+![version](https://img.shields.io/badge/version-0.0.1-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2020.04.15-lightgrey.svg) ![topic](https://img.shields.io/badge/topic-trajectory--prediction-brightgreen.svg?logo=github) [![HitCount](http://hits.dwyl.com/theDebugger811/trajectory-prediction-papers.svg)](http://hits.dwyl.com/theDebugger811/trajectory-prediction-papers)
+
 
 # Classical 
 1. Social Force Model for Pedestrian Dynamics, 1998 [Paper](https://arxiv.org/pdf/cond-mat/9805244.pdf)

@@ -3,6 +3,13 @@ Collection of Papers in Trajectory Prediction categorised according to the high-
 
 ![version](https://img.shields.io/badge/version-0.0.1-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2020.04.15-lightgrey.svg) ![topic](https://img.shields.io/badge/topic-trajectory--prediction-brightgreen.svg?logo=github) [![HitCount](http://hits.dwyl.com/theDebugger811/trajectory-prediction-papers.svg)](http://hits.dwyl.com/theDebugger811/trajectory-prediction-papers)
 
+The literature survey is categorized as:
+1. Classical: Papers not utilizing neural networks for trajectory prediction
+2. Motion-Based: Papers utilizing neural networks for trajectory prediction without modelling interactions with neighbouring agents or physical spaces.
+3. Agent-Agent Interactions: Papers utilizing neural networks for trajectory prediction modelling interactions with neighbouring agents but not physical spaces. 
+4. Agent-Space Interactions: Papers utilizing neural networks for trajectory prediction modelling interactions with physical spaces but not neighbouring agents.
+5. Agent-Agent-Space Interactions: Papers utilizing neural networks for trajectory prediction modelling interactions with both physical spaces as well as neighbouring agents.
+6. Miscellaneous: Papers related to related topics like activity forecasting, human body dynamics
 
 # Classical 
 1. Social Force Model for Pedestrian Dynamics, 1998 [Paper](https://arxiv.org/pdf/cond-mat/9805244.pdf)

@@ -13,16 +13,17 @@ The literature survey is categorized as:
 
 # Classical 
 1. Social Force Model for Pedestrian Dynamics, 1998 [Paper](https://arxiv.org/pdf/cond-mat/9805244.pdf)
-2. Discrete Choice Models for Pedestrian Walking Behavior, 2006 [Paper](https://infoscience.epfl.ch/record/77526/files/Antonini2004_721.pdf)
-3. Continuum crowds, 2006 [Paper](https://grail.cs.washington.edu/projects/crowd-flows/78-treuille.pdf)
-4. Modelling Smooth Paths Using Gaussian Processes, 2007 [Paper](https://hal.inria.fr/inria-00181664/file/Paper.pdf)
-4. Reciprocal n-body Collision Avoidance (ORCA), 2008 [Paper](http://gamma.cs.unc.edu/ORCA/publications/ORCA.pdf)
-5. You’ll Never Walk Alone: Modeling Social Behavior for Multi-target Tracking, 2009 [Paper](http://vision.cse.psu.edu/courses/Tracking/vlpr12/PellegriniNeverWalkAlone.pdf)
-5. Socially-Aware Large-Scale Crowd Forecasting, 2014 [Paper](http://vision.stanford.edu/pdf/alahi14.pdf)
-6. Learning to Predict Trajectories of Cooperatively Navigating Agents, 2014 [Paper](http://www2.informatik.uni-freiburg.de/~kretzsch/pdf/kretzschmar14icra.pdf)
-6. Understanding pedestrian behaviors from stationary crowd groups, 2015 [Paper](https://www.zpascal.net/cvpr2015/Yi_Understanding_Pedestrian_Behaviors_2015_CVPR_paper.pdf)
-6. Learning Social Etiquette: Human Trajectory Understanding In Crowded Scenes, 2016 [Paper](https://infoscience.epfl.ch/record/230262/files/ECCV16social.pdf)
-7. Point-based Path Prediction from Polar Histograms, 2016 [Paper](https://www.semanticscholar.org/paper/Point-based-path-prediction-from-polar-histograms-Coscia-Castaldo/37f35a05733e11cd490897a3c6d906abfe5ce434)
+2. Simulation of pedestrian dynamics using a two-dimensional cellular automaton, 2001 [Paper](https://arxiv.org/pdf/cond-mat/0102397.pdf)
+3. Discrete Choice Models for Pedestrian Walking Behavior, 2006 [Paper](https://infoscience.epfl.ch/record/77526/files/Antonini2004_721.pdf)
+4. Continuum crowds, 2006 [Paper](https://grail.cs.washington.edu/projects/crowd-flows/78-treuille.pdf)
+5. Modelling Smooth Paths Using Gaussian Processes, 2007 [Paper](https://hal.inria.fr/inria-00181664/file/Paper.pdf)
+6. Reciprocal n-body Collision Avoidance (ORCA), 2008 [Paper](http://gamma.cs.unc.edu/ORCA/publications/ORCA.pdf)
+7. You’ll Never Walk Alone: Modeling Social Behavior for Multi-target Tracking, 2009 [Paper](http://vision.cse.psu.edu/courses/Tracking/vlpr12/PellegriniNeverWalkAlone.pdf)
+8. Socially-Aware Large-Scale Crowd Forecasting, 2014 [Paper](http://vision.stanford.edu/pdf/alahi14.pdf)
+9. Learning to Predict Trajectories of Cooperatively Navigating Agents, 2014 [Paper](http://www2.informatik.uni-freiburg.de/~kretzsch/pdf/kretzschmar14icra.pdf)
+10. Understanding pedestrian behaviors from stationary crowd groups, 2015 [Paper](https://www.zpascal.net/cvpr2015/Yi_Understanding_Pedestrian_Behaviors_2015_CVPR_paper.pdf)
+11. Learning Social Etiquette: Human Trajectory Understanding In Crowded Scenes, 2016 [Paper](https://infoscience.epfl.ch/record/230262/files/ECCV16social.pdf)
+12. Point-based Path Prediction from Polar Histograms, 2016 [Paper](https://www.semanticscholar.org/paper/Point-based-path-prediction-from-polar-histograms-Coscia-Castaldo/37f35a05733e11cd490897a3c6d906abfe5ce434)
 
 # Motion-Based 
 
@@ -44,6 +45,8 @@ The literature survey is categorized as:
 5. MX-LSTM: mixing tracklets and vislets to jointly forecast trajectories and head poses, 2018 [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hasan_MX-LSTM_Mixing_Tracklets_CVPR_2018_paper.pdf)
 5. StarNet: Pedestrian Trajectory Prediction using Deep Neural Network in Star Topology, 2019 [Paper](https://arxiv.org/abs/1906.01797)
 6. SR-LSTM: State Refinement for LSTM towards Pedestrian Trajectory Prediction, 2019 [Paper](https://arxiv.org/abs/1903.02793)
+7. Recursive Social Behavior Graph for Trajectory Prediction, 2020 [Paper](https://arxiv.org/pdf/2004.10402.pdf)
+9. Collaborative Motion Prediction via Neural Motion Message Passing [Paper](https://arxiv.org/pdf/2003.06594.pdf)
 
 ### Multimodal
 
@@ -52,6 +55,10 @@ The literature survey is categorized as:
 3. Which Way Are You Going? Imitative Decision Learning for Path Forecasting in Dynamic Scenes, 2019 [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Which_Way_Are_You_Going_Imitative_Decision_Learning_for_Path_CVPR_2019_paper.pdf)
 4. Analyzing the Variety Loss in the Context of Probabilistic Trajectory Prediction, 2019 [Paper](https://arxiv.org/pdf/1907.10178.pdf)
 5. The Trajectron: Probabilistic Multi-Agent Trajectory Modeling With Dynamic Spatiotemporal Graphs, 2019 [Paper](https://arxiv.org/abs/1810.05993) 
+6. STGAT: Modeling Spatial-Temporal Interactions for Human Trajectory Prediction, 2019 [Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_STGAT_Modeling_Spatial-Temporal_Interactions_for_Human_Trajectory_Prediction_ICCV_2019_paper.pdf)
+7. Stochastic Trajectory Prediction with Social Graph Network, 2019 [Paper](https://arxiv.org/pdf/1907.10233.pdf)
+8. Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural
+Network for Human Trajectory Prediction, 2020 [Paper](https://arxiv.org/pdf/2002.11927.pdf)
 
 # Agent-Agent-Space Interaction 
 
@@ -68,7 +75,7 @@ The literature survey is categorized as:
 4. Social-BiGAT: Multimodal Trajectory Forecasting using Bicycle-GAN and Graph Attention Networks, 2019 [Paper](https://arxiv.org/abs/1907.03395)
 4. Social-WaGDAT: Interaction-aware Trajectory Prediction via Wasserstein Graph Double-Attention Network, 2020 [Paper](https://arxiv.org/pdf/2002.06241.pdf)
 5. Trajectron++: Multi-Agent Generative Trajectory Forecasting With Heterogeneous Data for Control, 2020 [Paper](https://arxiv.org/abs/1810.05993)
-
+6. Reciprocal Learning Networks for Human Trajectory Prediction, 2020 [Paper](https://arxiv.org/pdf/2004.04340.pdf)
 
 # Agent-Space Interaction 
 ### Multimodal
@@ -89,3 +96,4 @@ The literature survey is categorized as:
 ### Human Body Dynamics
 1. Gaussian Process Dynamical Models for Human Motion, 2008 [Paper](http://www.dgp.toronto.edu/~jmwang/gpdm/pami_with_errata.pdf)
 1. Recurrent Network Models for Human Dynamics, 2015 [Paper](https://arxiv.org/abs/1508.00271)
+

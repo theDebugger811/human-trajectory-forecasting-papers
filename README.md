@@ -118,3 +118,8 @@ Comparison of popular human trajectory forecasting papers based on the datasets 
 
 ### A Note on Evaluation benchmarks
 Evaluation on TrajNet++ is preferred in comparison to ETH/UCY as the test set and the evaluation protocol for TrajNet++ is fixed (and extensive!). More details [here](https://www.aicrowd.com/challenges/trajnet-a-trajectory-forecasting-challenge). The variation in ADE/FDE greatly reduces among different methods when evaluated on equal grounds on TrajNet++ ([leaderboard](https://www.aicrowd.com/challenges/trajnet-a-trajectory-forecasting-challenge/leaderboards)) in comparison to the numbers reported on ETH/UCY.
+
+# Trajectory Forecasting Framework
+If you are new to trajectory forecasting, do check out the [TrajNet++](https://github.com/vita-epfl/trajnetplusplusbaselines) framework! TrajNet++ is a code-base with specific focus on human trajectory forecasting, and having more than 10 trajectory forecastng baselines already implemented. 
+
+

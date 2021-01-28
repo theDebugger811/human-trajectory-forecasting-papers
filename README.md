@@ -1,4 +1,4 @@
-# human-trajectory-forecasting-papers
+# Papers
 Collection of papers in trajectory forecasting categorised according to the high-level structure
 
 ![version](https://img.shields.io/badge/version-0.0.1-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2020.04.15-lightgrey.svg) ![topic](https://img.shields.io/badge/topic-trajectory--prediction-brightgreen.svg?logo=github) [![HitCount](http://hits.dwyl.com/theDebugger811/trajectory-prediction-papers.svg)](http://hits.dwyl.com/theDebugger811/trajectory-prediction-papers)
@@ -11,7 +11,7 @@ The literature survey is categorized as:
 5. Agent-Agent-Space Interactions: Papers utilizing neural networks for trajectory forecasting modelling interactions with both physical spaces as well as neighbouring agents.
 6. Miscellaneous: Papers related to related topics like activity forecasting, human body dynamics
 
-# Classical 
+## Classical 
 1. Social Force Model for Pedestrian Dynamics, 1998 [Paper](https://arxiv.org/pdf/cond-mat/9805244.pdf)
 2. Simulation of pedestrian dynamics using a two-dimensional cellular automaton, 2001 [Paper](https://arxiv.org/pdf/cond-mat/0102397.pdf)
 3. Discrete Choice Models for Pedestrian Walking Behavior, 2006 [Paper](https://infoscience.epfl.ch/record/77526/files/Antonini2004_721.pdf)
@@ -25,7 +25,7 @@ The literature survey is categorized as:
 11. Learning Social Etiquette: Human Trajectory Understanding In Crowded Scenes, 2016 [Paper](https://infoscience.epfl.ch/record/230262/files/ECCV16social.pdf)
 12. Point-based Path Prediction from Polar Histograms, 2016 [Paper](https://www.semanticscholar.org/paper/Point-based-path-prediction-from-polar-histograms-Coscia-Castaldo/37f35a05733e11cd490897a3c6d906abfe5ce434)
 
-# Motion-Based 
+## Motion-Based 
 
 1. Bi-Prediction: Pedestrian Trajectory Prediction Based on Bidirectional LSTM Classification, 2017 [Paper](https://www.researchgate.net/publication/322001876_Bi-Prediction_Pedestrian_Trajectory_Prediction_Based_on_Bidirectional_LSTM_Classification)
 2. RED: A simple but effective Baseline Predictor for the TrajNet Benchmark, 2018 [Paper](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11131/Becker_RED_A_simple_but_effective_Baseline_Predictor_for_the_TrajNet_ECCVW_2018_paper.pdf)
@@ -34,7 +34,7 @@ The literature survey is categorized as:
 4. The Simpler the Better: Constant Velocity for Pedestrian Motion Prediction, 2019 [Paper](https://www.researchgate.net/publication/331887977_The_Simpler_the_Better_Constant_Velocity_for_Pedestrian_Motion_Prediction)
 4. Transformer Networks for Trajectory Forecasting, 2020 [Paper](https://arxiv.org/pdf/2003.08111.pdf)
 
-# Agent-Agent Interaction 
+## Agent-Agent Interaction 
 1. Social LSTM: Human Trajectory Prediction in Crowded Spaces, 2016 [Paper](https://cvgl.stanford.edu/papers/CVPR16_Social_LSTM.pdf)
 2. A Data-driven Model for Interaction-Aware Pedestrian Motion Prediction in Object Cluttered Environments, 2017 [Paper](https://arxiv.org/abs/1709.08528)
 3. Soft + Hardwired Attention: An LSTM Framework for Human Trajectory Prediction and Abnormal Event Detection, 2017 [Paper](https://arxiv.org/pdf/1702.05552.pdf)
@@ -60,7 +60,7 @@ The literature survey is categorized as:
 8. Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural
 Network for Human Trajectory Prediction, 2020 [Paper](https://arxiv.org/pdf/2002.11927.pdf)
 
-# Agent-Agent-Space Interaction 
+## Agent-Agent-Space Interaction 
 
 1. Context-Aware Trajectory Prediction in Crowded Spaces, 2017 [Paper](https://arxiv.org/pdf/1705.02503.pdf)
 2. Human Trajectory Prediction using Spatially aware Deep Attention Models, 2017 [Paper](https://arxiv.org/pdf/1705.09436.pdf)
@@ -76,14 +76,15 @@ Network for Human Trajectory Prediction, 2020 [Paper](https://arxiv.org/pdf/2002
 4. Social-WaGDAT: Interaction-aware Trajectory Prediction via Wasserstein Graph Double-Attention Network, 2020 [Paper](https://arxiv.org/pdf/2002.06241.pdf)
 5. Trajectron++: Multi-Agent Generative Trajectory Forecasting With Heterogeneous Data for Control, 2020 [Paper](https://arxiv.org/abs/1810.05993)
 6. Reciprocal Learning Networks for Human Trajectory Prediction, 2020 [Paper](https://arxiv.org/pdf/2004.04340.pdf)
+7. The Garden of Forking Paths: Towards Multi-Future Trajectory Prediction, 2020 [Papr](https://arxiv.org/pdf/1912.06445.pdf)
 
-# Agent-Space Interaction 
+## Agent-Space Interaction 
 ### Multimodal
 1. Accurate and Diverse Sampling of Sequences based on a “Best of Many” Sample Objective, 2018 [Paper](https://arxiv.org/pdf/1806.07772.pdf)
 2. Overcoming Limitations of Mixture Density Networks: A Sampling and Fitting Framework for Multimodal Future Prediction, 2019 [Paper](https://arxiv.org/pdf/1906.03631.pdf)
 3. Scene Compliant Trajectory Forecast with Agent-Centric Spatio-Temporal Grids, 2020 [Paper](https://www.semanticscholar.org/paper/Scene-Compliant-Trajectory-Forecast-With-Grids-Ridel-Deo/e2bfb1b90000e19b4bca6a7f8aab5f6305c6a2be)
 
-# Miscellaneous
+## Miscellaneous
 
 ### Activity Forecasting
 1. Trajectory Learning for Activity Understanding: Unsupervised, Multilevel, and Long-Term Adaptive Approach, 2011 [Paper](https://www.researchgate.net/publication/50596076_Trajectory_Learning_for_Activity_Understanding_Unsupervised_Multilevel_and_Long-Term_Adaptive_Approach)
@@ -97,3 +98,23 @@ Network for Human Trajectory Prediction, 2020 [Paper](https://arxiv.org/pdf/2002
 1. Gaussian Process Dynamical Models for Human Motion, 2008 [Paper](http://www.dgp.toronto.edu/~jmwang/gpdm/pami_with_errata.pdf)
 1. Recurrent Network Models for Human Dynamics, 2015 [Paper](https://arxiv.org/abs/1508.00271)
 
+# Evaluation
+
+Comparison of popular human trajectory forecasting papers based on the datasets on which the methods have been evaluated. 
+
+| Method            | ETH/UCY |    SDD  | TrajNet++ | Multipath |
+|:-----------------:|:-------:|:-------:|:---------:|:---------:|
+| S-LSTM            | &check; |         |           |           |
+| DESIRE            |         | &check; |           |           |
+| S-GAN             | &check; |         |           |           |
+| Sophie            | &check; | &check; |           |           |
+| Trajectron        | &check; |         |           |           |
+| Social-BiGAT      | &check; |         |           |           |
+| Social-STGCNN     | &check; |         |           |           |
+| Multiverse        |         |         |           |  &check;  |
+| PECNet            | &check; | &check; |  &check;  |           | 
+| D-LSTM            |         |         |  &check;  |           |
+| Social-NCE        |         |         |  &check;  |           |
+
+### A Note on Evaluation benchmarks
+Evaluation on TrajNet++ is preferred in comparison to ETH/UCY as the test set and the evaluation protocol for TrajNet++ is fixed (and extensive!). More details [here](https://www.aicrowd.com/challenges/trajnet-a-trajectory-forecasting-challenge). The variation in ADE/FDE greatly reduces among different methods when evaluated on equal grounds on TrajNet++ ([leaderboard](https://www.aicrowd.com/challenges/trajnet-a-trajectory-forecasting-challenge/leaderboards)) in comparison to the numbers reported on ETH/UCY.

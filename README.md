@@ -59,6 +59,8 @@ The literature survey is categorized as:
 7. Stochastic Trajectory Prediction with Social Graph Network, 2019 [Paper](https://arxiv.org/pdf/1907.10233.pdf)
 8. Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural
 Network for Human Trajectory Prediction, 2020 [Paper](https://arxiv.org/pdf/2002.11927.pdf)
+9. It Is Not the Journey but the Destination: Endpoint Conditioned Trajectory Prediction, 2020 [Paper](https://arxiv.org/pdf/2004.02025.pdf)
+10. STAR: Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction, 2020 [Paper](https://arxiv.org/pdf/2005.08514.pdf)
 
 ## Agent-Agent-Space Interaction 
 
@@ -76,13 +78,15 @@ Network for Human Trajectory Prediction, 2020 [Paper](https://arxiv.org/pdf/2002
 4. Social-WaGDAT: Interaction-aware Trajectory Prediction via Wasserstein Graph Double-Attention Network, 2020 [Paper](https://arxiv.org/pdf/2002.06241.pdf)
 5. Trajectron++: Multi-Agent Generative Trajectory Forecasting With Heterogeneous Data for Control, 2020 [Paper](https://arxiv.org/abs/1810.05993)
 6. Reciprocal Learning Networks for Human Trajectory Prediction, 2020 [Paper](https://arxiv.org/pdf/2004.04340.pdf)
-7. The Garden of Forking Paths: Towards Multi-Future Trajectory Prediction, 2020 [Papr](https://arxiv.org/pdf/1912.06445.pdf)
+7. The Garden of Forking Paths: Towards Multi-Future Trajectory Prediction, 2020 [Paper](https://arxiv.org/pdf/1912.06445.pdf)
+8. Dynamic and Static Context-aware LSTM for Multi-agent Motion Prediction, 2020 [Paper](https://arxiv.org/pdf/2008.00777.pdf)
 
 ## Agent-Space Interaction 
 ### Multimodal
 1. Accurate and Diverse Sampling of Sequences based on a “Best of Many” Sample Objective, 2018 [Paper](https://arxiv.org/pdf/1806.07772.pdf)
 2. Overcoming Limitations of Mixture Density Networks: A Sampling and Fitting Framework for Multimodal Future Prediction, 2019 [Paper](https://arxiv.org/pdf/1906.03631.pdf)
 3. Scene Compliant Trajectory Forecast with Agent-Centric Spatio-Temporal Grids, 2020 [Paper](https://www.semanticscholar.org/paper/Scene-Compliant-Trajectory-Forecast-With-Grids-Ridel-Deo/e2bfb1b90000e19b4bca6a7f8aab5f6305c6a2be)
+4. Goal-GAN: Multimodal Trajectory Prediction Based on Goal Position Estimation, 2020 [Paper](https://arxiv.org/pdf/2010.01114.pdf)
 
 ## Miscellaneous
 
